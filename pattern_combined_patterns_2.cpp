@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  combined-patterns-2
+//  combined-patterns-2 / apply the command pattern
 //
 
 #include <iostream>

@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  combined-patterns-5
+//  combined-patterns-5 / create an instant replay program
 //
 
 #include <iostream>

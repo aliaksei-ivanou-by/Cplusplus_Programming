@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  combined-patterns-3
+//  combined-patterns-3 / create a greeting-card generator program
 //
 
 #include <iostream>

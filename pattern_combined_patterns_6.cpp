@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  combined-patterns-6
+//  combined-patterns-6 / apply the null object pattern
 //
 
 #include <iostream>

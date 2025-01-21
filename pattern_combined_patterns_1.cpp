@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  combined-patterns-1
+//  combined-patterns-1 / create a group-chat program
 //
 
 #include <iostream>

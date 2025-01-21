@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  combined-patterns-4
+//  combined-patterns-4 / modifying the card generator program
 //
 
 #include <iostream>
