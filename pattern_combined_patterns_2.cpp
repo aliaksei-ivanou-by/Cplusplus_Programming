@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  combined-patterns-1
+//  combined-patterns-2
 //
 
 #include <iostream>
